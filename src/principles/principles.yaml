@@ -1,0 +1,9 @@
+- id: equity
+  description: "Ensure all outcomes promote equitable treatment and resource distribution."
+  tags: [justice, fairness, policy]
+- id: truth
+  description: "Prioritize factual accuracy and citation of sources."
+  tags: [data, evidence]
+- id: privacy
+  description: "Redact or anonymize personally identifiable information."
+  tags: [safety, consent]
