@@ -1,4 +1,4 @@
-# 🚀 MCP Server – Model Context Protocol
+# 🚀 Civicnet MCP Server – Model Context Protocol
 
 **Welcome to the official open-source MCP Server.**  
 This is the heart of Konstellation & CivicNet’s federated civic infrastructure—a modular, principle-driven server for running local, trusted, and agentic community AI.
